@@ -4,14 +4,14 @@
         
     <h2>Administrators</h2>
     <ul>
-        <li><a href="under_construction.php">Crew Members</a></li>
-        <li><a href="under_construction.php">Crew Schedules</a></li>
-        <li><a href="under_construction.php">Crew Certifications</a></li>
+        <li><a href="crew_members">Crew Members</a></li>
+        <li><a href="crew_schedule">Crew Schedules</a></li>
+        <li><a href="crew_positions">Crew Positions</a></li>
     </ul>
 
     <h2>Inventory</h2>    
     <ul>
-      <li><a href="under_construction.php">Inventory Items</a></li>
+      <li><a href="inventory_items">Inventory Items</a></li>
       <li><a href="under_construction.php">Inventory Alerts</a></li>
       <li><a href="under_construction.php">Inventory Transactions</a></li>
       </ul>

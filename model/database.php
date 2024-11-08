@@ -1,5 +1,5 @@
 <?php
-    $dsn = 'mysql:host=localhost;dbname=tech_support';
+    $dsn = 'mysql:host=localhost;dbname=skytrack_solutions';
     $username = 'root';
     $password = '';
 
